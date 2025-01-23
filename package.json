@@ -4,6 +4,10 @@
   "description": "Cursor position contexts for `when` causes of VSCode command keybindings.",
   "version": "0.0.1",
   "publisher": "k1low",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k1LoW/vscode-cursor-position-contexts"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
