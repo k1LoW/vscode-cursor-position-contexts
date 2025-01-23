@@ -52,7 +52,7 @@ export function activate(context: vscode.ExtensionContext) {
 		const cursorEnd = config.get('cursorEnd');
 		const cursorBottom = config.get('cursorBottom');
 
-		vscode.window.showInformationMessage(`!!cursorTop: ${cursorTop}, cursorHome: ${cursorHome}, cursorEnd: ${cursorEnd}, cursorBottom: ${cursorBottom}`);
+		vscode.window.showInformationMessage(`cursorTop: ${cursorTop}, cursorHome: ${cursorHome}, cursorEnd: ${cursorEnd}, cursorBottom: ${cursorBottom}`);
 	});
 
 	context.subscriptions.push(showContexts);
