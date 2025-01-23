@@ -3,6 +3,7 @@
   "displayName": "Cursor position contexts",
   "description": "Cursor position contexts for `when` causes of VSCode command keybindings.",
   "version": "0.0.1",
+  "publisher": "k1low",
   "engines": {
     "vscode": "^1.96.0"
   },
