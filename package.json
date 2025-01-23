@@ -27,22 +27,22 @@
         "cursor-position-contexts.cursorTop": {
           "type": "boolean",
           "default": false,
-          "description": "True if the cursor is at the top of the document"
+          "description": "`true` if the cursor is at the top of the document"
         },
         "cursor-position-contexts.cursorBottom": {
           "type": "boolean",
           "default": false,
-          "description": "True if the cursor is at the bottom of the document"
+          "description": "`true` if the cursor is at the bottom of the document"
         },
         "cursor-position-contexts.cursorHome": {
           "type": "boolean",
           "default": false,
-          "description": "True if the cursor is at the beginning of the line"
+          "description": "`true` if the cursor is at the beginning of the line"
         },
         "cursor-position-contexts.cursorEnd": {
           "type": "boolean",
           "default": false,
-          "description": "True if the cursor is at the end of the line"
+          "description": "`true` if the cursor is at the end of the line"
         }
       }
     },
