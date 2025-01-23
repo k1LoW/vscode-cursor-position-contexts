@@ -16,7 +16,7 @@
   ],
   "license": "MIT",
   "activationEvents": [
-     "onStartupFinished"
+    "onStartupFinished"
   ],
   "main": "./dist/extension.js",
   "contributes": {
@@ -47,6 +47,10 @@
       }
     },
     "commands": [
+      {
+        "command": "cursor-position-contexts.cursorReturn",
+        "title": "Cursor position contexts: Return to a line position that is neither the first nor the last line"
+      },
       {
         "command": "cursor-position-contexts.showContexts",
         "title": "Cursor position contexts: Show contexts"
