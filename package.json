@@ -2,7 +2,7 @@
   "name": "cursor-position-contexts",
   "displayName": "Cursor Position Contexts",
   "description": "Cursor position contexts for `when` causes of VSCode command keybindings.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "k1low",
   "repository": {
     "type": "git",
