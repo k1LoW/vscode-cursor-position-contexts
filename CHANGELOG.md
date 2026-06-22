@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.1.3](https://github.com/k1LoW/vscode-cursor-position-contexts/compare/v0.1.2...v0.1.3) - 2026-06-22
+
+### Other Changes
+- chore(deps): bump actions/checkout from 4 to 5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/16
+- chore(deps): bump actions/setup-node from 4 to 5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/18
+- chore(deps): bump actions/setup-node from 5 to 6 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/20
+- chore(deps): bump actions/checkout from 5 to 6 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/21
+- chore(deps-dev): bump esbuild from 0.25.1 to 0.28.1 by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/23
+- chore(deps): bump pnpm/action-setup from 4 to 5 in the dependencies group by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/22
+- chore(deps): bump the dependencies group across 1 directory with 2 updates by @dependabot[bot] in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/26
+
 ## [v0.1.2](https://github.com/k1LoW/vscode-cursor-position-contexts/compare/v0.1.1...v0.1.2) - 2025-03-25
 ### Other Changes
 - chore(deps-dev): bump @types/node from 22.13.2 to 22.13.4 in the dependencies group by @dependabot in https://github.com/k1LoW/vscode-cursor-position-contexts/pull/4
